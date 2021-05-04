@@ -1,0 +1,35 @@
+.NavItem {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0px 12px;
+}
+.NavItem:hover > .MuiSvgIcon-root {
+  transform: scale(0.9);
+  transform: rotate(360deg);
+}
+
+.NavItem > .MuiSvgIcon-root {
+  height: 20px;
+  transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.NavItem > span {
+  font-size: 13px;
+  letter-spacing: 1.42px;
+  text-transform: uppercase;
+  transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.NavItem:hover > span {
+  transform: scale(0.9);
+}
+.NavItem > a {
+  color: rgb(249, 249, 249);
+  font-size: 13px;
+  letter-spacing: 1.42px;
+  text-transform: uppercase;
+  transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+  text-decoration: none;
+}
+.NavItem > a:hover {
+  transform: scale(0.9);
+}

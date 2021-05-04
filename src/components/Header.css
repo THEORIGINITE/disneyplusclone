@@ -1,0 +1,33 @@
+.Header {
+  height: 70px;
+  position:sticky;
+  top:0;
+  padding: 0px 35px;
+  background: linear-gradient(to bottom, #141b29, #0c111b 300px);
+  display: flex;
+  align-items: center;
+  z-index:100;
+  overflow-x:hidden;
+}
+.Header_RowLogo_1 {
+  flex: 0.1;
+  width: 90px;
+  margin-right: 10px;
+}
+
+.Header_RowNav_2 {
+  flex: 0.8;
+  display: flex;
+  align-items: center;
+}
+.Header_RowAvatar_3 {
+  flex: 0.1;
+}
+.Header_RowAvatar_3:hover {
+  transform:scale(0.9);
+  cursor:pointer;
+}
+.Header_RowAvatar_3 {
+    transition: 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+    cursor:pointer;
+}
