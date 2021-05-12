@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Disney-Clone/static/css/main.022feaea.chunk.css",
+    "main.js": "/Disney-Clone/static/js/main.6f7960ac.chunk.js",
+    "main.js.map": "/Disney-Clone/static/js/main.6f7960ac.chunk.js.map",
+    "runtime-main.js": "/Disney-Clone/static/js/runtime-main.125835d7.js",
+    "runtime-main.js.map": "/Disney-Clone/static/js/runtime-main.125835d7.js.map",
+    "static/css/2.94641afa.chunk.css": "/Disney-Clone/static/css/2.94641afa.chunk.css",
+    "static/js/2.08dd3342.chunk.js": "/Disney-Clone/static/js/2.08dd3342.chunk.js",
+    "static/js/2.08dd3342.chunk.js.map": "/Disney-Clone/static/js/2.08dd3342.chunk.js.map",
+    "index.html": "/Disney-Clone/index.html",
+    "static/css/2.94641afa.chunk.css.map": "/Disney-Clone/static/css/2.94641afa.chunk.css.map",
+    "static/css/main.022feaea.chunk.css.map": "/Disney-Clone/static/css/main.022feaea.chunk.css.map",
+    "static/js/2.08dd3342.chunk.js.LICENSE.txt": "/Disney-Clone/static/js/2.08dd3342.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Disney-Clone/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.125835d7.js",
+    "static/css/2.94641afa.chunk.css",
+    "static/js/2.08dd3342.chunk.js",
+    "static/css/main.022feaea.chunk.css",
+    "static/js/main.6f7960ac.chunk.js"
+  ]
+}
